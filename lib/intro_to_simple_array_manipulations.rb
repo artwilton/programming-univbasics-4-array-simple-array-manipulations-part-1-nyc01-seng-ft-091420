@@ -10,4 +10,6 @@ end
 def using_shift
 end
 
-def 
+def shift_with_args
+end
+
